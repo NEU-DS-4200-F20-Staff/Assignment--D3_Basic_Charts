@@ -2,7 +2,7 @@
 
 This repository is your starting point for the assignment and includes the instructions below.
 
-Link to your GitHub pages website: `[insert your hyperlink here]`
+Link to your GitHub pages website: `[insert your clickable hyperlink here]`
 
 # Aim of the assignment
 
