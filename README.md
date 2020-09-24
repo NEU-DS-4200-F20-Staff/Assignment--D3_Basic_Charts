@@ -16,7 +16,6 @@ Please look through **all** the materials below so you understand the setup inst
 **Under no circumstances should you be editing files via the GitHub user interface.** Do all your edits locally after cloning the repository. Commit major versions to your git repository.
 
 1. In `README.md` (this file), modify the  `[insert your hyperlink here]` code to point to your GitHub pages URL. Ensure it is a clickable hyperlink. (Detailed instructions for GitHub pages [here](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Using_Github_pages).)
-Commit your changes to your local repo and push to the remote GitHub repo.
 
 2. In `index.html` update the GitHub repo URL with the URL of your repository. It is in the span with `id='forkongithub'`.
 
@@ -68,7 +67,7 @@ Each folder has an explanatory `README.md` file.
 
 ## Visualization and web page requirements
 
-You must implement, commit, and push the web page following these requirements:
+You must implement the web page following these requirements:
 
 **Type**: ​One of the two visualizations you create has to be a bar chart, and the other has to be a line chart.
 
@@ -95,11 +94,13 @@ You are welcome to use D3 tutorials or resources as a starting point for your co
 
 # Submission Instructions
 
+1. Commit all your local code and push it to your remote GitHub Classroom-generated repository.
+
 1. Make sure your data is included in the repository on GitHub.
 
 1. Ensure all visualization and prose required above is present in your GitHub page.
 
-1. Submit the URL of  **your GitHub Classroom-generated repository** (same as the link you edited at the top) to [the associated assignment on Canvas](https://northeastern.instructure.com/courses/18721/assignments/573829). **Do not submit a link to a personal repository. It must be within our class GitHub organization.** 
+1. Submit the URL of  **your GitHub Classroom-generated repository** (not your GitHub Page) to [the associated assignment on Canvas](https://northeastern.instructure.com/courses/18721/assignments/573829). **Do not submit a link to a personal repository. It must be within our class GitHub organization.** 
 
 # Tips and Tricks
 
