@@ -90,7 +90,7 @@ You must implement the web page following these requirements:
 4. Discuss the perceptual principles at play in your visualizations (e.g., pop-out effects, color theory, etc.) and how they positively support or enhance your plot.
 
 **Academic integrity**:
-You are welcome to use D3 tutorials or resources as a starting point for your code. However you must cite and reference the resources or sample code you use, ***including anything from [bl.ocks.org](bl.ocks.org/) or [stackoverflow](https://stackoverflow.com/)**.* Failure to properly cite and attribute code is a breach of academic honesty.  Also, per our syllabus, homework is an individual assessment and should be completed alone. You are welcome to ask fellow classmates and students for help and discuss the assignment, but the submission should be your own work. ***See [the syllabus](https://northeastern.instructure.com/courses/18721) for much more detail on our academic integrity policy and expectations.***
+You are welcome to use D3 tutorials or resources as a starting point for your code. However you must cite and reference the resources or sample code you use, ***including anything from [bl.ocks.org](https://bl.ocks.org/) or [stackoverflow](https://stackoverflow.com/)**.* Failure to properly cite and attribute code is a breach of academic honesty.  Also, per our syllabus, homework is an individual assessment and should be completed alone. You are welcome to ask fellow classmates and students for help and discuss the assignment, but the submission should be your own work. ***See [the syllabus](https://northeastern.instructure.com/courses/18721) for much more detail on our academic integrity policy and expectations.***
 
 # Submission Instructions
 
