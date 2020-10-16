@@ -19,7 +19,6 @@ Please look through **all** the materials below so you understand the setup inst
 1. Clone this repository to your local machine.
     E.g., in your terminal / command prompt `CD` to where you want this the folder for this activity to be. Then run `git clone <YOUR_REPO_URL>`
 
-
 1. `CD` or open a terminal / command prompt window into the cloned folder.
 
 1. Start a simple python webserver. E.g., `python -m http.server`, `python3 -m http.server`, or `py -m http.server`. If you are using python 2 you will need to use `python -m SimpleHTTPServer` instead, but please switch to python 3 as [Python 2 was sunset on 2020-01-01](https://www.python.org/doc/sunset-python-2/).
@@ -45,7 +44,7 @@ Here is an overview of the files and folders we provide for you in your repo.
 
 * `style.css` contains the CSS.
 
-* `LICENCE` is your source code license.
+* `LICENCE` is the source code license for the template. You can add your name or leave it as is.
 
 ### Folders
 Each folder has an explanatory `README.md` file.
@@ -53,6 +52,8 @@ Each folder has an explanatory `README.md` file.
 * `data` will hold the data file for the visualization.
 
 * `favicons` contains the favicons for the web page. You shouldn't change anything here.
+
+* `img` contains a descriptive image for the `README.md`.
 
 * `.github` contains [GitHub Actions](https://github.com/features/actions) ([docs](https://docs.github.com/en/actions)) which will automatically validate your HTML, CSS, and hyperlinks when you push (see the [**Validated** requirement below](#validated)). **Do not edit files here** except to create new `.yml` files for any additional actions you choose to add (you are not required to make any).
 
@@ -86,10 +87,12 @@ You must implement the web page following these requirements:
 3. State for each visualization what colormap you used (categorical, diverging, sequential) and why. The colormaps used should make sense and follow the guidelines discussed in the reading as well as lecture.
 4. Discuss the perceptual principles at play in your visualizations (e.g., pop-out effects, color theory, etc.) and how they positively support or enhance your plot.
 
-<a name='validated'></a>**Validated**: Ensure your code passes the "Validate HTML, CSS, and Links" checks we run when you push to GitHub. I.e., you want to see a green check next to your commit
+<a name='validated'></a>**Validated**: Ensure your code passes the 'Validate HTML, CSS, and Links' checks we run when you push to GitHub. I.e., you want to see a green check next to your commit
   (<svg width='16' height='16' role='img'><path stroke='#22863a' d='M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z'></path></svg>)
   and not a red X
   (<svg width='16' height='16' role='img'><path stroke='#cb2431' d='M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z'></path></svg>).
+You can also see the results in the Actions tab of your repo:
+![GitHub Actions tab](img/gh-actions.png)
 
 # Academic integrity
 You are welcome to use D3 tutorials or resources as a starting point for your code.
